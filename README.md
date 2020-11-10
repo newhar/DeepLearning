@@ -29,6 +29,7 @@ Convolution 을 활용하는 고전적인 모델인 LeNet을 CIFA Image를 이�
 ### 4_ResNet
 
 좀더 개선된 모델인 ResNet Model을 구현한다.
+![image](https://user-images.githubusercontent.com/40593455/98681309-eac09e00-23a5-11eb-9f2c-cc23f97e86b3.png)
 
 ### 5_CGAN
 
@@ -52,6 +53,7 @@ OpenCV의 FaceDetection을 사용하여 MaskDetection 모델을 생성한다.
 이 때 마스크를 착용한 모델과 착용하지 않은 데이터셋을 생성할 때 GAN을 이용하여 마스크를 쓰지 않은 사람에게 마스크를 착용하여 Data Augmentation을 진행.
 
 이 후 마스크 착용에 대한 모델을 별도로 만든다.
+![image](https://user-images.githubusercontent.com/40593455/98681486-1d6a9680-23a6-11eb-8d02-6f2cf28a207a.png)
 
 현재 진행중인 프로젝트 (완료 예정일 12/16)
 
